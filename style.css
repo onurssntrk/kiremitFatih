@@ -59,7 +59,7 @@ body{
 }
 
 .page1{
-    height: 100vh;
+    /* height: 100vh; */
     background-color: rgb(213, 238, 238);
     
 }
