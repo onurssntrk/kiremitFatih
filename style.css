@@ -84,7 +84,24 @@ body{
     color: #000000;
 }
 
+.text p {
+    font-size: 18px;
+}
 
+.page1{
+    /* height: 100vh; */
+    background-color: rgb(213, 238, 238);
+    
+}
+.page1 h2{
+    text-align: center;
+}
+
+ul li{
+    font-style: italic;
+    list-style-type: none;
+    
+}
 
 
 .navbar{
