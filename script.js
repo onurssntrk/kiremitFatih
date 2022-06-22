@@ -10,9 +10,7 @@ $(window).scroll(function () {
     if ($(window).scrollTop() > 616) {
       $(".navbar").removeClass("ba");
     }
-  });
-
-
+});
 
 
 // Menü kısmı
